@@ -1,8 +1,8 @@
-<h1 align="center">Hi, welcome to my GitHub!:v:</h1>
+<h1 align="center">Welcome!:v:</h1>
 
 I'm a full-stack software engineer motivated in developing simple and efficient web applications through creative solutions. I'm passionate in merging design with powerful tech-stacks to make the lives of others easier and enjoyable! I'm always seeking ways to improve myself by taking on new challenges and learning something new. When I'm away from the screen, I enjoy playing ping pong :ping_pong: with my friends and checking out new local restaurants around my neighborhood. 
 
-<h2 align="center">Get in touch!</h2>
+<h2 align="center">Get in touch! :call_me_hand:</h2>
 <p align="center">
 <a href="mailto: seungkilee94@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
