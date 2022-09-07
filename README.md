@@ -1,37 +1,41 @@
-<h1>Hi, welcome to my GitHub!:v:</h1>
+<h1 align="center">Hi, welcome to my GitHub!:v:</h1>
 
 I'm a full-stack software engineer motivated in developing simple and efficient web applications through creative solutions. I'm passionate in merging design with powerful tech-stacks to make the lives of others easier and enjoyable! I'm always seeking ways to improve myself by taking on new challenges and learning something new. When I'm away from the screen, I enjoy playing ping pong :ping_pong: with my friends and checking out new local restaurants around my neighborhood. 
-#
-<h2>Get in touch!</h2>
+
+<h2 align="center">Get in touch!</h2>
+<p align="center">
 <a href="mailto: seungkilee94@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/seung-ki-lee/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+ </p>
 
-#
 
-<h2>Skills and Technologies :joystick:</h2>
 
-<h6>Front-End</h6>
-<span>
+<h2 align="center">Skills and Technologies :joystick:</h2>
+
+<h5 align="center">Front-End</h5>
+<p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</span>
-<h6>Back-End</h6>
-<span>
+</p>
+
+<h5 align="center">Back-End</h5>
+<p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-</span>
-<h6>Tools</h6>
-<span>
+</p>
+ 
+<h5 align="center">Tools</h5>
+<p align="center">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -40,7 +44,7 @@ I'm a full-stack software engineer motivated in developing simple and efficient 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
- </span>
+ </p>
 <!--
 **stvnlee890/stvnlee890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
