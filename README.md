@@ -16,7 +16,7 @@ I'm a full-stack software engineer motivated in developing simple and efficient 
 
 <h2 align="center">Skills and Technologies :joystick:</h2>
 
-<h5 align="center">Front-End</h5>
+<h4 align="center">Front-End</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -24,7 +24,7 @@ I'm a full-stack software engineer motivated in developing simple and efficient 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<h5 align="center">Back-End</h5>
+<h4 align="center">Back-End</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -34,7 +34,7 @@ I'm a full-stack software engineer motivated in developing simple and efficient 
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 </p>
  
-<h5 align="center">Tools</h5>
+<h4 align="center">Tools</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
