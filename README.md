@@ -45,6 +45,10 @@ I'm a full-stack software engineer motivated in developing simple and efficient 
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
  </p>
+ 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stvnlee890&theme=tokyonight">
+<p>
 <!--
 **stvnlee890/stvnlee890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
