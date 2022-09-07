@@ -9,6 +9,7 @@ I'm a full-stack software engineer motivated in developing simple and efficient 
 <a href="https://www.linkedin.com/in/seung-ki-lee/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 #
 
 ### Skills and Technologies
