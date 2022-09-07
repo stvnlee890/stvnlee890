@@ -1,18 +1,17 @@
-#### Hi, welcome to my GitHub!
-#
-I'm a full-stack software engineer motivated in developing simple and efficient web applications through creative solutions. I'm passionate in merging design with powerful tech-stacks to make the lives of others easier and enjoyable! I'm always seeking ways to improve myself by taking on new challenges and learning something new. When I'm away from the screen, I enjoy playing ping pong with my friends and checking out new local restaurants around my neighborhood. 
+### Hi, welcome to my GitHub!
 
-### Get in touch!
+I'm a full-stack software engineer motivated in developing simple and efficient web applications through creative solutions. I'm passionate in merging design with powerful tech-stacks to make the lives of others easier and enjoyable! I'm always seeking ways to improve myself by taking on new challenges and learning something new. When I'm away from the screen, I enjoy playing ping pong with my friends and checking out new local restaurants around my neighborhood. 
 #
+### Get in touch!
 <a href="mailto: seungkilee94@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/seung-ki-lee/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-### Skills and Technologies
 #
+### Skills and Technologies
+
 <h6>Front-End</h6>
 <span>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -20,8 +19,6 @@ I'm a full-stack software engineer motivated in developing simple and efficient 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </span>
-
-
 <h6>Back-End</h6>
 <span>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -31,7 +28,6 @@ I'm a full-stack software engineer motivated in developing simple and efficient 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 </span>
-
 <h6>Tools</h6>
 <span>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
