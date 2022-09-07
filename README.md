@@ -1,8 +1,8 @@
-### Hi, welcome to my GitHub!
+<h1>Hi, welcome to my GitHub!:v:</h1>
 
-I'm a full-stack software engineer motivated in developing simple and efficient web applications through creative solutions. I'm passionate in merging design with powerful tech-stacks to make the lives of others easier and enjoyable! I'm always seeking ways to improve myself by taking on new challenges and learning something new. When I'm away from the screen, I enjoy playing ping pong with my friends and checking out new local restaurants around my neighborhood. 
+I'm a full-stack software engineer motivated in developing simple and efficient web applications through creative solutions. I'm passionate in merging design with powerful tech-stacks to make the lives of others easier and enjoyable! I'm always seeking ways to improve myself by taking on new challenges and learning something new. When I'm away from the screen, I enjoy playing ping pong :ping_pong: with my friends and checking out new local restaurants around my neighborhood. 
 #
-### Get in touch!
+<h2>Get in touch!</h2>
 <a href="mailto: seungkilee94@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -12,7 +12,7 @@ I'm a full-stack software engineer motivated in developing simple and efficient 
 
 #
 
-### Skills and Technologies
+<h2>Skills and Technologies :joystick:</h2>
 
 <h6>Front-End</h6>
 <span>
