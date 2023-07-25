@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!:v:</h1>
 
-👋 Full-stack software engineer driven by a deep passion for frontend development. I thrive on creating simple, efficient, and visually captivating web applications through creative solutions. By merging design principles with powerful tech-stacks, I aim to make the lives of users easier and more enjoyable. Always seeking new challenges and eager to learn, I continuously enhance my frontend skills and stay up-to-date with the latest trends and best practices. When I'm not coding, you can find me playing ping pong 🏓 with friends or exploring the vibrant local restaurant scene. Let's build exceptional user experiences together!
+👋 Software engineer driven by a deep passion for frontend development. I thrive on creating simple, efficient, and visually captivating web applications through creative solutions. By merging design principles with powerful tech-stacks, I aim to make the lives of users easier and more enjoyable. Always seeking new challenges and eager to learn, I continuously enhance my frontend skills and stay up-to-date with the latest trends and best practices. When I'm not coding, you can find me playing ping pong 🏓 with friends or exploring the vibrant local restaurant scene. Let's build exceptional user experiences together!
 
 <h2 align="center">Get in touch! :call_me_hand:</h2>
 <p align="center">
